@@ -12,9 +12,9 @@ hasCJKLanguage: true
 # Set default content directory for multilingual
 contentDir: content/objave/
 # Set fallback if international version is not available
-defaultContentLanguage: en
+defaultContentLanguage: si
 # Set the default language as the root rather than in folder i.e. don't use /en/
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 ######################## privacy & speed ####################
 # Enable do not track, no cookies on Video embeds
