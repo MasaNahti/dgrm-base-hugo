@@ -1,0 +1,80 @@
+
+title = "Društvo general Rudolf Maister Kranj"
+baseurl = "/"
+relativeurls = true
+languageCode = "si-sl"
+theme = "dot-org-hugo-theme"
+Copyright = "DGRM Kranj"
+
+DefaultContentLanguage = "si"
+Paginate = 7 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+description = "Enter your personal description"
+featured_image = "/images/rudolf-maister-kip-banner.jpg"
+background_color_class = "bg-black"
+
+[[menu.main]]
+name = "Objave"
+identifier = "objave"
+weight = -10
+pre = "<br />"
+url = "/objave"
+
+[[menu.main]]
+name = "O društvu"
+identifier = "drustvo" # this page will refer to a markdown file named "about" in the content folder
+pre = "<br />"
+url = "/drustvo"
+weight = 10
+
+[[menu.main]]
+name = "Stražarji Karavank"
+identifier = "knjiga"
+weight = 15
+pre = "<br />"
+url = "/knjiga"
+
+[[menu.main]]
+name = "Vojaški dogodki na Koroškem po koncu prve svetovne vojne"
+identifier = "vojaskidogodki"
+weight = 16
+pre = "<br />"
+url = "/vojaskidogodki"
+
+[[menu.main]]
+name = "Statut društva"
+identifier = "statut" # this page will refer to a markdown file named "statut" in the content folder
+pre = "<br />"
+url = "/statut"
+weight = 20
+
+[[menu.main]]
+name = "Program"
+identifier = "program" # this page will refer to a markdown file named "program" in the content folder
+pre = "<br />"
+url = "/program"
+weight = 25
+
+[[menu.main]]
+name = "Zapisniki"
+identifier = "zapisniki" # this page will refer to a markdown file named "program" in the content folder
+pre = "<br />"
+url = "/zapisniki"
+weight = 28
+
+
+
+[[menu.main]]
+name = "Prispevki in članki"
+identifier = "prispevki"
+weight = 35
+pre = "<br />"
+url = "/prispevki"
+
+[[menu.main]]
+name = "Kontakt"
+identifier = "kontakt"
+weight = 40
+pre = "<br />"
+url = "/kontakt"
