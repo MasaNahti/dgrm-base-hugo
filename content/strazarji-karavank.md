@@ -4,7 +4,7 @@ featured_image: '/images/rudolf-maister-kip-banner.jpg'
 omit_header_text: true
 ---
 
-{{< embed-pdf url="../strazarji-karavank.pdf" >}}
+{{< embed-pdf url="/strazarji-karavank.pdf" >}}
 
 *Opombi:*
 - *nalaganje datoteke lahko vzame nekaj sekund;*
