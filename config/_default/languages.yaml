@@ -13,8 +13,8 @@ si:
       help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/example-page/"
+      text: "2024 - Leto generala Rudolfa Maistra"
+      link: "https://www.gov.si/zbirke/projekti-in-programi/2024-leto-generala-rudolfa-maistra/"
     footer_cta:
       text: "Join us"
       link: "/example-page/"
@@ -23,12 +23,12 @@ si:
   menu:
     main:
     - identifier: "drustvo"
+      name: "Društvo"
+      url: "drustvo/"
+      weight: 1
+    - identifier: "o-drustvu"
       name: "O društvu"
       url: "/o-drustvu/"
-      weight: 1
-    - identifier: "opis"
-      name: "Opis"
-      url: "/opis/"
       weight: 1
       post: "..."
       parent: "drustvo"
@@ -41,6 +41,11 @@ si:
       name: "Program"
       url: "/program/"
       weight: 3
+      parent: "drustvo"
+    - identifier: "kontakt"
+      name: "Kontakt"
+      url: "/kontakt/"
+      weight: 4
       parent: "drustvo"
     - identifier: "zapisniki"
       name: "Zapisniki"
