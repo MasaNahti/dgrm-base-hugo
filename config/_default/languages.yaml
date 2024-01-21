@@ -4,8 +4,8 @@ si:
   ### copyright (markdown can be used) ###
   copyright: "&copy; DGRM {{< current_year >}}"
   title: "Društvo general Rudolf Maister Kranj"
-  description: "..."
   params:
+    description: "..."
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
