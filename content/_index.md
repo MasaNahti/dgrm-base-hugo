@@ -1,8 +1,8 @@
 ---
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
+title: Društvo General Rudolf Maister Kranj
+subtitle: Rudolf Maister - Vojanov
+subtitle_two: Naprej
 ---
-*Rudolf Maister - Vojanov*  
-**Naprej**  
  
 Bratje! V Triglavu ognji gore:  
 žarki kresovi, krvavi plameni,  
