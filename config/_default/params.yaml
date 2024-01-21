@@ -1,7 +1,7 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo_on_white.png"
+logo_on_white: "/images/logo_on_white.png"
 logo_on_black: ""
 custom_js: []
 custom_css: []
@@ -10,6 +10,7 @@ custom_css: []
 
 ### default social share image (can also be set per lang) ###
 images: ["/img/social-share.png"]
+showHeader: false
 
 github:
   repo_url: "https://github.com/username/repo/blob/master"
