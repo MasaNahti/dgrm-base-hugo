@@ -15,6 +15,7 @@ body {
 .title {
     margin-block-start: 70px;
     margin-block-end: 50px;
+    text-align: center;
     @media (min-width: 850px) {
         padding-left: 10%;
         padding-right: 10%;
@@ -45,6 +46,7 @@ h2,
     font-size: 20px;
     margin-block-start: 50px;
     margin-block-end: 30px;
+    text-align: left;
     @media (min-width: $min-desktop) {
         line-height: 115%;
         font-size: 30px;
