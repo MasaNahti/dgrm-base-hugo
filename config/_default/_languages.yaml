@@ -1,3 +1,4 @@
+# not needed at the moment, defined menu in hugo.yaml instead (to avoid adding the "si" to url)
 si:
   languageName: Slovenian
   weight: 1

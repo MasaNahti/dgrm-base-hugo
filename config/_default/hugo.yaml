@@ -8,13 +8,13 @@ timeZone: "America/Los_Angeles"
 
 ######################## i18n ####################
 # Auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
-hasCJKLanguage: true
+#hasCJKLanguage: true
 # Set default content directory for multilingual
 contentDir: content/
 # Set fallback if international version is not available
-defaultContentLanguage: si
+#defaultContentLanguage: si
 # Set the default language as the root rather than in folder i.e. don't use /en/
-defaultContentLanguageInSubdir: true
+#defaultContentLanguageInSubdir: true
 
 
 ######################## privacy & speed ####################
@@ -24,3 +24,73 @@ privacy:
     privacyEnhanced: true
   vimeo:
     enableDNT: true
+
+### copyright (markdown can be used) ###
+copyright: "&copy; DGRM Kranj {{< current_year >}}"
+title: "Društvo general Rudolf Maister Kranj"
+params:
+  description: "..."
+  ### accessibility ###
+  ###  accessibility:
+  ###    skip_text: "Skip to content"
+  ###    help_text: "Accessibility Statement"
+  ###    help_url: "/example-page/"
+  ### calls to action ###
+  main_cta:
+    text: "2024 - Leto generala Rudolfa Maistra"
+    link: "https://www.gov.si/zbirke/projekti-in-programi/2024-leto-generala-rudolfa-maistra/"
+  footer_cta:
+    text: "Kontakt"
+    link: "/kontakt/"
+  ### github_edit: "Edit this page on GitHub"
+### example menu showing children ###
+menu:
+  main:
+  - identifier: "drustvo"
+    name: "Društvo"
+    url: "drustvo/"
+    weight: 1
+  - identifier: "o-drustvu"
+    name: "O društvu"
+    url: "/o-drustvu/"
+    weight: 1
+    post: "..."
+    parent: "drustvo"
+  - identifier: "statut"
+    name: "Statut društva"
+    url: "/statut-drustva/"
+    weight: 2
+    parent: "drustvo"
+  - identifier: "program"
+    name: "Program"
+    url: "/program/"
+    weight: 3
+    parent: "drustvo"
+  - identifier: "kontakt"
+    name: "Kontakt"
+    url: "/kontakt/"
+    weight: 4
+    parent: "drustvo"
+  - identifier: "zapisniki"
+    name: "Zapisniki"
+    url: "/zapisniki/"
+    weight: 3
+    parent: "drustvo"
+  - identifier: "strazarji"
+    name: "Stražarji Karavank"
+    url: "/strazarji-karavank/"
+    weight: 2
+  - identifier: "prispevki"
+    name: "Prispevki in članki"
+    url: "/prispevki-in-clanki/"
+    weight: 3
+  - identifier: "vojaski-dogodki"
+    name: "Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
+    url: "/vojaski-dogodki-po-koncu-prve-svetovne-vojne/"
+    weight: 1
+    post: "..."
+    parent: "prispevki"
+  - identifier: "objave"
+    name: "Objave"
+    url: "/objave/"
+    weight: 4
