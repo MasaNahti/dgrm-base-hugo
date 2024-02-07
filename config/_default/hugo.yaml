@@ -29,7 +29,7 @@ privacy:
 copyright: "&copy; DGRM Kranj {{< current_year >}}"
 title: "Društvo general Rudolf Maister Kranj"
 params:
-  description: "..."
+  description: ""
   ### accessibility ###
   ###  accessibility:
   ###    skip_text: "Skip to content"
@@ -54,7 +54,6 @@ menu:
     name: "O društvu"
     url: "/o-drustvu/"
     weight: 1
-    post: "..."
     parent: "drustvo"
   - identifier: "statut"
     name: "Statut društva"
@@ -88,8 +87,30 @@ menu:
     name: "Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
     url: "/vojaski-dogodki-po-koncu-prve-svetovne-vojne/"
     weight: 1
-    post: "..."
+    post: ""
     parent: "prispevki"
+  - identifier: "ravbar-porocnik-lojze-ude"
+    name: "Matjaž Ravbar: Poročnik Lojze Ude - borec za slovensko severno mejo"
+    url: "/ravbar-porocnik-lojze-ude/"
+    weight: 2
+    parent: "prispevki"
+  - identifier: "lojze-ude-boji"
+    name: "Lojze Ude: Boji v Rožu in Ziljski dolini leta 1918/19"
+    url: "/lojze-ude-boji/"
+    weight: 3
+    parent: "prispevki"
+  - identifier: "janez-kavar-lojze-ude"
+    name: "Janez Kavar: Tržičan Lojze Ude"
+    url: "/janez-kavar-lojze-ude/"
+    weight: 4
+    parent: "prispevki"
+  - identifier: "joze-kosnjek-branili-severno-mejo"
+    name: "Jože Košnjek: Na Karavankah branili severno mejo"
+    url: "/joze-kosnjek-branili-severno-mejo/"
+    weight: 5
+    parent: "prispevki"
+
+
   - identifier: "objave"
     name: "Objave"
     url: "/objave/"
