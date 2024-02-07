@@ -1,0 +1,28 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ $paginator := .Paginate .Pages }}
+  {{- range $paginator.Pages }}
+  <article class="blog-item">
+    {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+    {{ if $featured_image }}
+      <div class="columns blog-grid" style="row-gap:0px">
+        <div class="blog-grid__col1">
+          <img src="{{ $featured_image }}" class="db" alt="image from {{ .Title }}">
+        </div>
+        <div class="blog-grid__col2">
+          <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{- partial "blog/byline.html" . }}
+          <p class="blog-item__summary">{{ .Summary }}</p>
+        </div>
+      </div>
+      {{ else }}
+      <div>
+        <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{- partial "blog/byline.html" . }}
+        <p class="blog-item__summary">{{ .Summary }}</p>
+      </div>
+      {{ end }}
+  </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}
