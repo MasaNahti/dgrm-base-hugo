@@ -1,7 +1,7 @@
 ---
 title: "Spominska obeležja med Kranjem in Podkorenom, povezana z bojem za severno mejo" 
 date: 2023-11-02T11:25:05-04:00
-featured_image: "/images/dogodki/2023-11-02_spominska_obelezja/2_spominska_obelezja_2023-11-02.png"
+featured_image: "/images/dogodki/2023-11-02_spominska_obelezja/8_spominska_obelezja_2023-11-02.png"
 draft: false
 summary: " "
 ---

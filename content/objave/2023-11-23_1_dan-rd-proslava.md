@@ -1,7 +1,7 @@
 ---
 title: "Proslava ob državnem prazniku dnevu Rudolfa Maistra" 
 date: 2023-11-23T11:00:00
-featured_image: "/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-14.png"
+featured_image: "/images/dogodki/2023-11-23_proslava/naslovna_slika_proslava-2023-11-23.png"
 draft: false
 summary: "Člani Društva general Rudolf Maister Kranj, predstavniki Mestne občine Kranj, predstavniki dijakov in učiteljev s kranjske Gimnazije in ostali, ki so se odzvali vabilu, smo se ob državnem prazniku – dnevu Rudolfa Maistra tudi letos s proslavo na Maistrovem trgu poklonili njegovemu spominu ..."
 ---

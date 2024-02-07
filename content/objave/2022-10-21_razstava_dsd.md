@@ -3,7 +3,7 @@ title: "Razstava o Rudolfu Maistru v Dijaškem in študentskem domu v Kranju od 
 date: 2022-10-21T11:25:05-04:00
 featured_image: "/images/dogodki/2022-10-21_razstava_dsd/dsd-razstava-7.jpeg"
 draft: false
-summary: "Od 10. do 21. oktobra 2022 je priložnostna razstava o generalu Rudolfu Maistru gostovala v prostorih Dijaškega in študentskega doma Kranj. Ob otvoritvi razstave sta povabljene nagovorila ravnateljica Judita Nahtigal in vzgojitelj mag. Aleš Žlebnik. Tako je bilo omogočeno dijakom, študentom, učencem sosednjih šol in skupnosti omogočiti vpogled v življenje in delo tega vizionarja, ki je poleg vseh področij ustvarjanja lahko imenovan tudi kot začetnik slovenskih oboroženih sil."
+summary: "Od 10. do 21. oktobra 2022 je priložnostna razstava o generalu Rudolfu Maistru gostovala v prostorih Dijaškega in študentskega doma Kranj. Ob otvoritvi razstave sta povabljene nagovorila ravnateljica Judita Nahtigal in vzgojitelj mag. Aleš Žlebnik. ..."
 ---
 
 ![](/images/dogodki/2022-10-21_razstava_dsd/VABILO-razstava_o_R._Maistru_v_DSD_Kranj_od_10.-do_21.10.2022.jpeg " ")

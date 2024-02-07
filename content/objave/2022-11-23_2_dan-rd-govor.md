@@ -1,10 +1,9 @@
 ---
 title: "Govor predsednika DGRM Kranj na proslavi ob državnem prazniku dan Rudolfa Maistra na Maistrovem trgu v Kranju dne 23. 11. 2022" 
 date: 2022-11-23T12:00:00
-featured_image: "/images/dogodki/2022-11-23_proslava/proslava-2022-11-23-07.jpeg"
+featured_image: "/images/dogodki/2022-11-23_proslava/naslovna_slika_govor_proslava-2022-11-23.jpeg"
 draft: false
-summary: "Spoštovani! Današnji dan je šele leta 2005 postal državni praznik. 
-Danes slavimo obletnico začetka odločnih in uspešnih akcij Rudolfa Maistra, s katerimi je 23. novembra 1918 in kasneje z boji za severno slovensko mejo slovenskemu narodu zagotovil ozemeljsko celovitost, predvsem pa  to, da sta Maribor in Štajerska pripadla in ostala v domovini ..."
+summary: "Spoštovani! Današnji dan je šele leta 2005 postal državni praznik. ..."
 ---
 
 Spoštovani!

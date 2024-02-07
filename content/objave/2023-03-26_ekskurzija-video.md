@@ -1,7 +1,7 @@
 ---
 title: "Kratek video z ekskurzije DGRM Kranj v Tržič, na prelaz Ljubelj in v Borovlje" 
 date: 2023-03-26T11:25:05-04:00
-featured_image: "/images/dogodki/2022-11-14_ekskurzija/13_ekskurzija_2022-11-14.jpeg"
+featured_image: "/images/dogodki/2022-11-14_ekskurzija/naslovna_slika_video_ekskurzija_2022-11-14.jpeg"
 draft: false
 summary: "Na voljo je kratek video z ekskurzije, ki smo jo v Društvu general Rudolf Maister Kranj organizirali  11. 11. 2022 v spomin na boje za severno mejo na širšem območju Borovelj."
 ---

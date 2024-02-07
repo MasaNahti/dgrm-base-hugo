@@ -1,7 +1,7 @@
 ---
 title: "Volilna skupščina DGRM Kranj 24. 3. 2022" 
 date: 2022-03-24T11:25:05-04:00
-featured_image: "/images/dogodki/2022-03-24_volilna_skupscina/volilna_skupscina-2022-03-24_04.jpg"
+featured_image: "/images/dogodki/2022-03-24_volilna_skupscina/naslovna_slika_volilna_skupscina-2022-03-24.jpg"
 draft: false
 summary: "Člani Društva general Rudolf Maister Kranj so imeli 24. 3. 2022 v hotelu Elegans na Brdu letno in volilno skupščino."
 ---

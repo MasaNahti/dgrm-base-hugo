@@ -1,7 +1,7 @@
 ---
 title: "Skupščina DGRM Kranj 16. 3. 2023" 
 date: 2023-03-16T11:25:05-04:00
-featured_image: "/images/dogodki/2023-03-16_skupscina/2023-03-16_skupscina_7.jpeg"
+featured_image: "/images/dogodki/2023-03-16_skupscina/naslovna_slika_2023-03-16_skupscina.jpeg"
 draft: false
 summary: "Člani Društva general Rudolf Maister Kranj so se 16. 3. 2022 popoldan zbrali v Hotelu Elegans na Brdu na redni letni Skupščini."
 ---
