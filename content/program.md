@@ -1,37 +1,40 @@
 ---
-title: 'Program dela Društva general Rudolf Maister Kranj za leto 2023'
+title: 'Program dela Društva general Rudolf Maister Kranj za leto 2024'
 featured_image: '/images/rudolf-maister-kip-banner.jpg'
 omit_header_text: true
 ---
 
-- Seje UO za pripravo poročila o delu v letu 2022, programa dela za leto 2023 ter za izvedbo posameznih programiranih nalog (po potrebi),
+1. Seja UO društva za pripravo poročila o delu v letu 2023 in potrditev programa dela za leto 2024 in drugih gradiv za letno skupščino ter seje UO in nadzornega odbora po potrebi za izvedbo posameznih načrtovanih nalog
 
-- letna skupšćina (najkasneje do konca marca),
+2. Letna skupščina društva pred letno skupščino ZDGM
 
-- sodelovanje delegacije društva na letni skupšćini ZDGM (26. marca v Velenju),
+3. Sodelovanje delegacije društva na letni skupščini ZDGM (ob sklicu)
 
-- sodelovanje na sejah UO ZDGM,
+4. Udeležba predsednika ali podpredsednika društva na sejah UO ZDGM (ob sklicih)
 
-- predlaganje, utemeljitev in posredovanje predlogov za priznanja ZDGM (v roku po razpisu),
+5. Predlaganje in obrazložitev predlogov za priznanja ZDGM v letu 2024 (po razpisu)
 
-- postavitev razstave "Boji za severno slovensko mejo in general Rudolf Maister" v Osnovni šoli Naklo in v Osnovni šoli Šenčur ter predavanje ućencem zadnjih razredov teh šol o generalu Maistru in bojih za severno slovensko mejo (aprila in oktobra),
+6. Postavitev razstave "Boji za severno slovensko mejo in general Rudolf Maister" v treh osnovnih šolah in predavanje o generalu Maistru in bojih za severno slovensko mejo učencem zadnjih razredov teh šol (aprila in oktobra)
 
-- obnovitev spominskega obeležja borcem za severno mejo in Alfredu Lavriču na Prešernovem gledališču v Kranju (maja),
+7. Položitev šopka ali lovorovega venca in prižiganje sveče ob obletnici smrti Rudolfa Maistra na njegov doprsni kip na Maistrovem trgu (26. julija), na spominsko ploščo na Prešernovem gledališču borcem za severno mejo in Alfredu Lavriču (27. junija) ter na spominsko ploščo Lojzetu Udetu in njegovim prostovoljcem (14. novembra) na Knjižnici dr. Toneta Pretnarja v Tržiču
 
-- polaganje cvetja in prižiganje sveče ob obletnici smrti Rudolfa Maistra pri spomeniku na Maistrovem trgu (26. julija), pri spominski plošči na Prešernovem gledališcu borcem za severno mejo in Alfredu Lavriču ob obletnici njegovega rojstva in smrti (21. junija) ter v spomin na druge pomembne dogodke in osebnosti iz slovenske zgodovine v povezavi z domoljubjem in obdobjem bojev za severno slovensko mejo,
+8. Organizacija in izvedba strokovne ekskurzije članov društva za ogled pomnikov, posvečenih Rudolfu Maistru in bojem za severno mejo na Štajerskem ter predavanje udeležencem o glavnih nosilcih in bojih za severno mejo na tem območju (oktober)
 
-- strokovna ekskurzija članov DGRM Kranj do Kranjske gore in po zahodni Koroški do Celovca z ogledom pomnikov posvečenih bojem in borcem za severno mejo ter predavanje udeležencem pred ekskurzijo o glavnih nosilcih in bojih za severno mejo zahodno od Celovca (septembra),
+9. Proslava s položitvijo lovorovega venca na doprsni kip generala Rudolfa Maistra, slavnostni govor in kulturni program v sodelovanju z Mestno občino Kranj in Gimnazijo Kranj na Maistrovem trgu ob državnem prazniku dan Rudolfa Maistra (23. november)
 
-- polaganje spominskega venca in organizacija proslave v sodelovanju z Mestno obdino Kranj in Gimnazijo Kranj pri spomeniku na Maistrovem trgu ob državnem prazniku dan Rudolfa Maistra (23. novembra),
+10. Vključitev zainteresiranih vojnih veteranov in domoljubov v društvo po predlogih posameznih članov (preko celega leta)
 
-- povabila posameznikom za vključitev v društvo (preko celega leta po predlogih članov društva),
+11. Izdelava nove spletne strani (do februarja), potem pa sprotno dopolnjevanje in vzdrževanje objav na spletni strani društva na spletnem naslovu www.dgrm-kranj.si
 
-- izdelava poročila o delu v letu 2023 in programa dela za leto 2024 ter obravnava in potrditev na seji UO (decembra),
+12. Izdelava polletnega in letnega poročila o realizaciji načrtovanih nalog iz programa dela društva za leto 2024 za ZDGM (v rokih, ki jih bo določila ZDGM)
 
-- sprotno vsebinsko dopolnjevanje in prenavljanje ter vzdrževanje spletne strani DGRM Kranj na spletnem naslovu www.dgrm-kranj.si,
+13. Sprotno seznanjanje članov društva s SMS sporočili ali po elektronski pošti z aktivnostmi društva in ZDGM ter z novimi objavami na spletni strani društva (preko celega leta)
 
-- polletno in letno poročanje ZDGM o realizaciji načrtovanih nalog iz programa dela za leto 2023 (na predpisanih obrazcih v rokih, ki jih določi ZDGM),
+14. Dopolnjevanje seznama spominskih obeležij od Kranja do Podkorena, posvečenih
+generalu Maistru in borcem za slovenske meje po koncu prve svetovne vojne
 
-- seznanjanje članov društva s SMS ali po elektronski pošti z aktivnostmi ZDGM in DGRM Kranj ter z novimi objavami na spletni strani (sproti).
+15. Izdelava programa dela društva za leto 2025 ter obravnava in sprejem na seji UO (v roku, ki ga bo določila ZDGM)
 
-Roman Nahtigal, predsednik DGRM Kranj l. r.
+**ARHIV:**
+- Program dela DGRM Kranj za leto 2022 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2022.pdf))
+- Program dela DGRM Kranj za leto 2023 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2023.pdf))
