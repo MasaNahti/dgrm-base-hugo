@@ -65,15 +65,20 @@ menu:
     url: "/program/"
     weight: 3
     parent: "drustvo"
-  - identifier: "kontakt"
-    name: "Kontakt"
-    url: "/kontakt/"
+  - identifier: "porocila"
+    name: "Poročila"
+    url: "/porocila/"
     weight: 4
     parent: "drustvo"
   - identifier: "zapisniki"
     name: "Zapisniki"
     url: "/zapisniki/"
-    weight: 3
+    weight: 5
+    parent: "drustvo"
+  - identifier: "kontakt"
+    name: "Kontakt"
+    url: "/kontakt/"
+    weight: 6
     parent: "drustvo"
   - identifier: "strazarji"
     name: "Stražarji Karavank"
