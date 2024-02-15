@@ -19,6 +19,23 @@ $mobile-max: 999px;
         color: var(--primary-700);
     }
 
+    .story-paragraph {
+        font-family: var(--rounded-font-family);
+        color: var(--text-color);
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 0.8px;
+        text-transform: none;
+        border-left: 6px solid var(--primary-400);
+        padding-left: 20px;
+        margin-block-end: 50px;
+        @media (min-width: $min-desktop) {
+            margin-block-end: 60px;
+        }
+    }
+
     .subhero {
         font-family: var(--rounded-font-family);
         color: var(--text-color);
