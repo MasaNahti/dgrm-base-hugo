@@ -79,7 +79,7 @@ Odgovoril mu je generalni sekretar ZDGM Rudolf Pfajfar, ki je v obširnem odgovo
 Ker ni bilo drugih predlogov in vprašanj, je delovni predsednik zaključil zasedanje Skupščine in vse sodelujoče povabil v restavracijski del hotela na pogovore in druženje ob obari in ajdovih žgancih ter ob kozarčku vina.
 
 DOKUMENTI:
-- Poročilo o delu za leto 2022 ([pdf](/Porocilo-o-delu-DGRM-Kranj-v-letu-2022.pdf))
-- Poročilo o finančnem poslovanju ([pdf](/Porocilo-o-prihodkih-in-odhodkih-DGRM-Kranj-v-letu-2022.pdf))
-- Program dela DGRM Kranj za leto 2023 ([pdf](/Program-dela-DGRM-Kranj-za-leto-2023.pdf))
-- Finančni načrt za leto 2023 ([pdf](/Financni-nacrt-DGRM-Kranj-za-leto-2023.pdf))
+- Poročilo o delu za leto 2022 ([pdf](/porocila/Porocilo-o-delu-DGRM-Kranj-v-letu-2022.pdf))
+- Poročilo o finančnem poslovanju ([pdf](/porocila/Porocilo-o-prihodkih-in-odhodkih-DGRM-Kranj-v-letu-2022.pdf))
+- Program dela DGRM Kranj za leto 2023 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2023.pdf))
+- Finančni načrt za leto 2023 ([pdf](/drugi-dokumenti-drustva/Financni-nacrt-DGRM-Kranj-za-leto-2023.pdf))
