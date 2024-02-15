@@ -41,31 +41,31 @@ Program proslave je povezovala dijakinja Lara Jelić.
 
 ![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-04.png " ")
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-05.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-05.png " ")  
 Program proslave je povezovala dijakinja  Lara Jelić.
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-06.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-06.png " ")  
 Podžupan Mestne občine Kranj Janez Černe in podpredsednik DGRM Kranj dr. Iztok Purič sta pod doprsni kip Rudolfa Maistra položila lovorov venec.
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-07.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-07.png " ")  
 Podžupan je navzoče pozdravil s kratkim govorom. 
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-08.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-08.png " ")  
 Slavnostni govornik je bil predsednik DGRM Kranj Roman Nahtigal.
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-09.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-09.png " ")  
 Veselilo nas je, da se je proslave udeležil tudi starosta DGRM Kranj mag. Štefan Kadoič, nekdanji kranjski podžupan in direktor VŠOD ter do upokojitve predavatelj na FOV Kranj. 
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-10.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-10.png " ")  
 Dijak Martin Černe je recitiral Maistrovo pesem »Naprej«.
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-11.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-11.png " ")  
 Trio flavt, ki so ga sestavljale dijakinje Rebeka Pavlin, Špela Šimnic in Marcela Oblak, je zaigral skladbo Barta Bakkerja z naslovom »Buenos dias muchachas«.
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-12.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-12.png " ")  
 Dijakinja Sara Andrejc je recitirala Maistrovo pesem »Mati«.
 
-![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-13.png " ")
+![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-13.png " ")  
 Robežnikovo skladbo »Orion« v priredbi Jožeta Privška  sta zaigrala dijaka Jure Osterman na evfoniju in Jaša Luštrek na kitari.
 
 ![](/images/dogodki/2023-11-23_proslava/proslava-2023-11-23-14.png " ")

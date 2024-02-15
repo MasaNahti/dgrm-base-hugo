@@ -117,47 +117,47 @@ V bližnjih lokalih ob Vrbskem jezeru smo si privoščili kratek postanek ob kav
 
 Preko Tržiča smo se zgodaj zvečer vrnili v Kranj z novimi spoznanji o gorenjskem prispevku pri bojih za severno mejo in za jeseniški trikotnik, po katerem je imela velike apetite sosednja Italija.
 
-![](/images/dogodki/2023-10-14_ekskurzija/1_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/1_ekskurzija_2023-10-14.png " ")  
 *Iz Kranja in Tržiča se nas je sedemnajst udeležencev ekskurzije z avtobusom zapeljalo do rojstne hiše dr. Janka Brejca v Brezjah pri Tržiču.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/2_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/2_ekskurzija_2023-10-14.png " ")  
 *Strokovni vodja ekskurzije je predstavil delovanje dr. Janka Brejca v vladi SHS in za Slovence na Koroškem.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/3_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/3_ekskurzija_2023-10-14.png " ")  
 *Spominsko ploščo so na rojstni hiši dr. Janka Brejca ob 20. obletnici samostojne Slovenije, leta 2011, odkrili vaščani Brezij pri Tržiču.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/4_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/4_ekskurzija_2023-10-14.png " ")  
 *Predstavitev ustanovitve in delovanja alpinske (alpske) čete v bojih za severno mejo ter življenja in dela Rudolfa Badjure pred spominsko ploščo na radovljiški graščini na Linhartovem trgu v Radovljici.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/5_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/5_ekskurzija_2023-10-14.png " ")  
 *Na pročelju radovljiške graščine na Linhartovem trgu so marca 1974 na pobudo Društva borcev-prostovoljcev za severno mejo 1918 – 1919 odkrili spominsko ploščo  posvečeno spominu na prostovoljce Alpinske čete, ki jim je poveljeval kapetan II. razreda Rudolf Badjura.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/6_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/6_ekskurzija_2023-10-14.png " ")  
 *V lokalih na Linhartovem trgu smo se družili in pogovorili ob kavi.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/7_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/7_ekskurzija_2023-10-14.png " ")  
 *Pri veslaškem centru v Zaki na Bledu sta predsednika Slovenije in Srbije 9. oktobra 2015 odkrila spomenik srbskemu izumitelju in fiziku mednarodnega slovesa Mihajlu Pupinu, ki ga je Bled imenoval za častnega občana že leta 1921. Spomenik je Sloveniji podarila Srbija.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/8_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/8_ekskurzija_2023-10-14.png " ")  
 *Predstavitev pomena Mihajla Pupina za znanost in slovenske meje. Na povabilo Kraljevine SHS se je leta 1919 udeležil pariške mirovne konference in s svojo intervencijo med drugim tudi pomagal, da je območje jeseniškega trikotnika z Bledom, Bohinjem in Kranjsko Goro pri določanju meje z Italijo ostalo znotraj kraljevine SHS.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/9_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/9_ekskurzija_2023-10-14.png " ")  
 *Spominska plošča, ki so jo novembra leta 1973 na pročelju Železniške postaje Jesenice postavili         prostovoljci-borci za severno mejo z Jesenic v počastitev alpinske, ljubeljske in dobrovoljske Šefmanove četa ter jeseniškega in ljubeljskega odreda.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/10_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/10_ekskurzija_2023-10-14.png " ")  
 *Nasproti Železniške postaje Jesenice leži osrednji spomenik NOB na Jesenicah, ki je bil odkrit leta 1960. Avtor ureditve je bil arhitekt Edo Ravnikar, avtor plastik pa kipar Boris Kalin.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/11_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/11_ekskurzija_2023-10-14.png " ")  
 *Železniški predor Karavanke je 7976 metrov dolg slovensko-avstrijski predor, ki je  bil prebit po petih letih gradnje leta 1905, dela na njem pa so bila zaključena septembra 1906. Onovljeni južni portal predora na Hrušici je grajen iz kamnitih klesancev, na vrhu pa ima tudi pozneje dozidana bunkerja.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/12_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/12_ekskurzija_2023-10-14.png " ")  
 *Predstavitev pomena nadporočnika Karla Šefmana, ki je zbral četo prostovoljcev-borcev za severno mejo in pozimi 1919 preprečil italijansko osvojitev jeseniškega trikotnika.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/13_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/13_ekskurzija_2023-10-14.png " ")  
 *Spominsko ploščo so aprila 1983 Karlu Šefmanu na njegovi rojstni hiši odkrili  prostovoljci-borci za severno mejo z Jesenic.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/14_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/14_ekskurzija_2023-10-14.png " ")  
 *Kamniti pomnik na pločniku v Vrbi na Koroškem, ki označuje smer demarkacijske linije po Vrbskem jezeru in zahodno leta 1919.*
 
-![](/images/dogodki/2023-10-14_ekskurzija/15_ekskurzija_2023-10-14.png " ")
+![](/images/dogodki/2023-10-14_ekskurzija/15_ekskurzija_2023-10-14.png " ")  
 *Prižiganje sveče v počastitev spomina na žrtve koncentracijskega taborišča Ljubelj -  Mauthausen.*
