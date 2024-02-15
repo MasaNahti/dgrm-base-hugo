@@ -6,7 +6,7 @@ draft: false
 summary: " "
 ---
 
-Seznam spominskih obeležij med Kranjem in Podkorenom, povezanih z bojem za severno mejo ([pdf](/Seznam_spominskih_obelezij.pdf))
+Seznam spominskih obeležij med Kranjem in Podkorenom, povezanih z bojem za severno mejo ([pdf](/objave-pdf/Seznam_spominskih_obelezij.pdf))
 
 **1**
 ![](/images/dogodki/2023-11-02_spominska_obelezja/1_spominska_obelezja_2023-11-02.png "")
