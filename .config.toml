@@ -10,4 +10,9 @@ DefaultContentLanguage = "si"
 Paginate = 7 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
-description = "Enter your personal description"
+description = "Društvo General Rudolf Maister Kranj
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
