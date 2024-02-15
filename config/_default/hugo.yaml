@@ -75,10 +75,15 @@ menu:
     url: "/zapisniki/"
     weight: 5
     parent: "drustvo"
+  - identifier: "predlogi-za-priznanja"
+    name: "Predlogi za priznanja ZDGM"
+    url: "/predlogi-za-priznanja/"
+    weight: 6
+    parent: "drustvo"
   - identifier: "kontakt"
     name: "Kontakt"
     url: "/kontakt/"
-    weight: 6
+    weight: 7
     parent: "drustvo"
   - identifier: "strazarji"
     name: "Stražarji Karavank"
