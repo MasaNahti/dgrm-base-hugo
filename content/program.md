@@ -1,7 +1,6 @@
 ---
 title: 'Program dela Društva general Rudolf Maister Kranj za leto 2024'
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
-omit_header_text: true
+description: Program dela Društva general Rudolf Maister Kranj
 ---
 
 1. Seja UO društva za pripravo poročila o delu v letu 2023 in potrditev programa dela za leto 2024 in drugih gradiv za letno skupščino ter seje UO in nadzornega odbora po potrebi za izvedbo posameznih načrtovanih nalog

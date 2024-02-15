@@ -1,5 +1,6 @@
 ---
 title: 'Lojze Ude: Boji v Rožu in Ziljski dolini leta 1918/19'
+description: Lojze Ude - Boji v Rožu in Ziljski dolini leta 1918/19
 ---
 Objavljeno v: Jeklo in ljudje - Jeseniški zbornik II, 1969, str. 115-182
 

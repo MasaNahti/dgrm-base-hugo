@@ -1,6 +1,6 @@
 ---
 title: 'Predlogi DGRM Kranj za priznanja ZDGM'
-omit_header_text: true
+description: Predlogi DGRM Kranj za priznanja ZDGM
 ---
 
 **PREDLOGI ZA LETO 2023**

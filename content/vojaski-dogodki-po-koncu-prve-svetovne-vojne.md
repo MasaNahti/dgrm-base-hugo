@@ -1,7 +1,6 @@
 ---
 title: 'Gregor Kastelic: Vojaški dogodki na Koroškem po koncu prve svetovne vojne'
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
-omit_header_text: true
+description: Gregor Kastelic - Vojaški dogodki na Koroškem po koncu prve svetovne vojne
 ---
 
 {{< embed-pdf url="/prispevki-in-clanki/Gregor-Kastelic_Vojaski-dogodki-na-Koroskem-po-koncu-prve-svetovne-vojne.pdf" >}}

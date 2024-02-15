@@ -1,5 +1,6 @@
 ---
 title: 'Jože Košnjek: Na Karavankah branili severno mejo'
+description: Društvo General Rudolf Maister Kranj
 ---
 Objavljeno v: Gorenjski Glas, 10. 12. 2018
 

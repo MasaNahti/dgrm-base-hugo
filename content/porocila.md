@@ -1,6 +1,6 @@
 ---
 title: 'Poročila o delu DGRM Kranj'
-omit_header_text: true
+description: Poročila o delu DGRM Kranj
 ---
 
 - Poročilo o delu DGRM Kranj v letu 2022 ([pdf](/porocila/Porocilo-o-delu-DGRM-Kranj-v-letu-2022.pdf))

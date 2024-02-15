@@ -2,6 +2,7 @@
 title: Društvo General Rudolf Maister Kranj
 subtitle: Rudolf Maister - Vojanov
 subtitle_two: Naprej
+description: Društvo General Rudolf Maister Kranj
 ---
  
 Bratje! V Triglavu ognji gore:  

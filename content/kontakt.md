@@ -1,7 +1,6 @@
 ---
 title: 'Kontakt'
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
-omit_header_text: true
+description: Društvo General Rudolf Maister Kranj kontakt
 ---
 
 **Predsednik društva Roman Nahtigal**  

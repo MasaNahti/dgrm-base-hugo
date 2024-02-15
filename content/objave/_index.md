@@ -1,4 +1,4 @@
 ---
 title: "Objave"
-description: ""
+description: Društvo General Rudolf Maister Kranj
 ---

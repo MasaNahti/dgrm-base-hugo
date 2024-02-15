@@ -1,5 +1,6 @@
 ---
 title: 'Janez Kavar: Tržičan Lojze Ude'
+description: Janez Kavar - Tržičan Lojze Ude
 ---
 
 Objavljeno v: Gorenjski glas št. 7, 2010 

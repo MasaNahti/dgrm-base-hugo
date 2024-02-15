@@ -1,7 +1,6 @@
 ---
 title: 'O Društvu general Rudolf Maister Kranj'
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
-omit_header_text: true
+description: DGRM Kranj
 ---
 
 Društvo general Rudolf Maister Kranj (DGRM Kranj) je pravna oseba zasebnega prava, ki združuje pravne in fizične osebe, potomce Maistrovih borcev, domoljube ter šole in druge ustanove, ki negujejo spomin na zgodovinsko vlogo  generala Maistra in borcev za severno mejo. 

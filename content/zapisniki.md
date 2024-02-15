@@ -1,7 +1,6 @@
 ---
 title: 'Zapisniki Skupščine in organov društva'
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
-omit_header_text: true
+description: Zapisniki Skupščine in organov društva DGRM Kranj
 ---
 
 **ZAPISNIKI ZA LETO 2022**

@@ -1,5 +1,6 @@
 ---
 title: 'Spominski zbornik 1918-1919 Maribor 1979'
+description: Spominski zbornik 1918-1919 Maribor 1979
 ---
 
 {{< embed-pdf url="/prispevki-in-clanki/Spominski-zbornik-1918-1919-Maribor-1979.pdf" >}}

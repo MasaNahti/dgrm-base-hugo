@@ -1,7 +1,6 @@
 ---
 title: 'Stražarji Karavank'
-featured_image: '/images/rudolf-maister-kip-banner.jpg'
-omit_header_text: true
+description: Stražarji Karavank
 ---
 
 {{< embed-pdf url="/strazarji-karavank.pdf" >}}
