@@ -3,7 +3,7 @@ title: 'Jože Košnjek: Na Karavankah branili severno mejo'
 ---
 Objavljeno v: Gorenjski Glas, 10. 12. 2018
 
-{{< embed-pdf url="/Joze-Kosnjek-Na-Karavankah-branili-severno-mejo-Gorenjski-Glas-10.12.2018.pdf" >}}
+{{< embed-pdf url="/prispevki-in-clanki/Joze-Kosnjek-Na-Karavankah-branili-severno-mejo-Gorenjski-Glas-10.12.2018.pdf" >}}
 
 *Opombi:*
 - *nalaganje datoteke lahko vzame nekaj sekund;*

@@ -4,7 +4,7 @@ featured_image: '/images/rudolf-maister-kip-banner.jpg'
 omit_header_text: true
 ---
 
-{{< embed-pdf url="/Gregor-Kastelic_Vojaski-dogodki-na-Koroskem-po-koncu-prve-svetovne-vojne.pdf" >}}
+{{< embed-pdf url="/prispevki-in-clanki/Gregor-Kastelic_Vojaski-dogodki-na-Koroskem-po-koncu-prve-svetovne-vojne.pdf" >}}
 
 *Opombi:*
 - *nalaganje datoteke lahko vzame nekaj sekund;*
