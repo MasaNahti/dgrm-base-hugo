@@ -19,4 +19,4 @@ omit_header_text: true
 - Zapisnik 6. dopisne seje UO DGRM Kranj od 25. do 27. 12. 2023 ([pdf](/zapisniki/Zapisnik_6._dopisne_seje_UO_DGRM_Kranj_od_25._do_27.12.2023.pdf))
 
 **ZAPISNIKI ZA LETO 2024**
-- Zapisnik 7. seje UO DGRM Kranj dne 7. 2. 2024 ([pdf](Zapisnik_7._seje_UO_DGRM_Kranj_dne_7.2.2024.pdf))
+- Zapisnik 7. seje UO DGRM Kranj dne 7. 2. 2024 ([pdf](/zapisniki/Zapisnik_7._seje_UO_DGRM_Kranj_dne_7.2.2024.pdf))
