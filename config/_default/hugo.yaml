@@ -83,34 +83,50 @@ menu:
     name: "Prispevki in članki"
     url: "/prispevki-in-clanki/"
     weight: 3
+  - identifier: "spominski-zbornik"
+    name: "Spominski zbornik 1918-1919 Maribor 1979"
+    url: "/spominski-zbornik-maribor/"
+    weight: 1
+    post: ""
+    parent: "prispevki"
+  - identifier: "jeseniski-trikot"
+    name: "Lojze Ude Jeseniški trikot - Zgodovinski časopis 33/1979"
+    url: "/lojze-ude-jeseniski-trikot/"
+    weight: 2
+    post: ""
+    parent: "prispevki"
+  - identifier: "stane-bostjancic-naloga"
+    name: "Stane Boštjančič: Domača naloga za zaključni izpit v gimnaziji v Kranju leta 1959 - Ob 40. obletnici koroškega plebiscita"
+    url: "/stane-bostjancic-naloga/"
+    weight: 3
+    post: ""
+    parent: "prispevki"
   - identifier: "vojaski-dogodki"
     name: "Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
     url: "/vojaski-dogodki-po-koncu-prve-svetovne-vojne/"
-    weight: 1
+    weight: 4
     post: ""
     parent: "prispevki"
   - identifier: "ravbar-porocnik-lojze-ude"
     name: "Matjaž Ravbar: Poročnik Lojze Ude - borec za slovensko severno mejo"
     url: "/ravbar-porocnik-lojze-ude/"
-    weight: 2
+    weight: 5
     parent: "prispevki"
   - identifier: "lojze-ude-boji"
     name: "Lojze Ude: Boji v Rožu in Ziljski dolini leta 1918/19"
     url: "/lojze-ude-boji/"
-    weight: 3
+    weight: 6
     parent: "prispevki"
   - identifier: "janez-kavar-lojze-ude"
     name: "Janez Kavar: Tržičan Lojze Ude"
     url: "/janez-kavar-lojze-ude/"
-    weight: 4
+    weight: 7
     parent: "prispevki"
   - identifier: "joze-kosnjek-branili-severno-mejo"
     name: "Jože Košnjek: Na Karavankah branili severno mejo"
     url: "/joze-kosnjek-branili-severno-mejo/"
-    weight: 5
+    weight: 8
     parent: "prispevki"
-
-
   - identifier: "objave"
     name: "Objave"
     url: "/objave/"
