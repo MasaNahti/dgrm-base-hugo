@@ -1,6 +1,6 @@
 ---
 title: "Borci za severno mejo iz Kranja in Tržiča" 
-date: 2024-02-15T00:00:00
+date: 2024-02-15T12:00:00
 featured_image: ""
 draft: false
 summary: "Iz Spominskega zbornika ob 60-letnici bojev za severno slovensko mejo 1918-1919"
