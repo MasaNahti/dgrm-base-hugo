@@ -19,4 +19,4 @@ description: Zapisniki Skupščine in organov društva DGRM Kranj
 
 **ZAPISNIKI ZA LETO 2024**
 - Zapisnik 7. seje UO DGRM Kranj dne 7. 2. 2024 ([pdf](/zapisniki/Zapisnik_7._seje_UO_DGRM_Kranj_dne_7.2.2024.pdf))
-- Zapisnik redne letne Skupščine DGRM Kranj dne 29. 2. 2024 ([pdf](/zapisniki/Zapisnik_redne_letne_Skupscine_DGRM_Kranj_dne_29.2.2024))
+- Zapisnik redne letne Skupščine DGRM Kranj dne 29. 2. 2024 ([pdf](/zapisniki/Zapisnik_redne_letne_Skupscine_DGRM_Kranj_dne_29.2.2024.pdf))
