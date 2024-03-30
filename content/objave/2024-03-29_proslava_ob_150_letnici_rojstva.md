@@ -10,7 +10,7 @@ Gimnazija Kranj je 29. marca 2024 ob 150-letnici rojstva in 90-letnici smrti pri
 
 ![](/images/dogodki/2024-03-29_proslava/1_proslava_2024-03-29.jpg " ")
 
-Slovesnosti se se udeležil dijaki in učitelji Gimnazije Kranj, člani Društva general Rudolf Maister Kranj, povabljeni in drugi. 
+Slovesnosti so se udeležili dijaki in učitelji Gimnazije Kranj, člani Društva general Rudolf Maister Kranj, povabljeni in drugi. 
 
 ![](/images/dogodki/2024-03-29_proslava/2_proslava_2024-03-29.jpg " ")
 
