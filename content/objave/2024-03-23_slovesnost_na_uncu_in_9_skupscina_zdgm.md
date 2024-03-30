@@ -1,7 +1,7 @@
 ---
 title: "Slovesnost na Uncu ter podelitve priznanj ZDGM in 19. Skupščina ZDGM v Kulturnem domu Cerknica" 
 date: 2024-03-23T12:00:00
-featured_image: "/images/dogodki/2024-03-23_unec_in_cerknica/Cerknica_8_2024-03-23.jpg"
+featured_image: "/images/dogodki/2024-03-23_unec_in_cerknica/Cerknica_naslovna_2024-03-23.jpg"
 draft: false
 summary: "V prostorih Kulturnega doma Cerknica je bila 23. marca 2024 sklicana 19. Skupščina Zveze društev general Maister ..."
 ---
