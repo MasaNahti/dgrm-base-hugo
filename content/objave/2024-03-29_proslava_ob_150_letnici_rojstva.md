@@ -3,6 +3,7 @@ title: "Proslava ob 150-letnici rojstva in 90-letnici smrti generala Rudolfa Mai
 date: 2024-03-29T12:00:00
 featured_image: "/images/dogodki/2024-03-29_proslava/naslovna_proslava_2024-03-29.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - slovesnost ob smrti Rudolfa Maistra 2024"
 summary: "Gimnazija Kranj je 29. marca 2024 ob 150-letnici rojstva in 90-letnici smrti pri Maistrovem spomeniku na Maistrovem trgu v Kranju pripravila slovesnost, s katero se je poklonila Rudolfu Maistru, svojemu dijaku in velikemu Slovencu ..."
 ---
 

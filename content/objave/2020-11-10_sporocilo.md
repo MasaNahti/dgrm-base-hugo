@@ -2,6 +2,7 @@
 title: "Sporočilo članicam in članom Društva general Rudolf Maister Kranj" 
 date: 2020-11-10T11:25:05-04:00
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - sporočilo članom in članicam - koronavirus"
 summary: " "
 ---
 

@@ -3,6 +3,7 @@ title: "Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Šenčur od 1
 date: 2023-10-17T11:25:05-04:00
 featured_image: "/images/dogodki/2023-10-17_razstava_os_sencur/1_razstava_os_sencur_2023-10-17.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava OŠ Šenčur"
 summary: "Od 17. do 27. oktobra 2023 je DGRM Kranj na Osnovni šoli Šenčur postavilo razstavo Zveze društev general Maister o življenju in delu generala Rudolfa Maistra ter bojih za severno mejo ... "
 ---
 Tekst: Roman Nahtigal

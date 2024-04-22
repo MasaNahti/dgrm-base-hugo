@@ -3,6 +3,7 @@ title: "26. julija 1934 je umrl general Rudolf Maister"
 date: 2023-07-26T11:25:05-04:00
 featured_image: "/images/dogodki/2023-07-26_obletnica_smrti/2023-07-26_obletnica_smrti_1.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - obletnica smrti 2023"
 summary: "V Mariboru so pripravili mrtvaški oder v veži mestnega magistrata, kjer se je od njega poslovilo več kot deset tisoč Mariborčanov in okoliških prebivalcev. ..."
 ---
 

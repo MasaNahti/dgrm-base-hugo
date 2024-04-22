@@ -2,7 +2,8 @@
 title: "Program aktivnosti društva za leto 2020" 
 date: 2020-04-01T11:25:05-04:00
 draft: false
-summary: "Predhodno izdelani program aktivnosti je upravni odbor zaradi ukrepov pandemije v letošnjem prvem polletju  omejil na predvidene najvažnejše naloge, ki jih bo še možno izvesti do konca leta."
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - program 2020"
+summary: "Predhodno izdelani program aktivnosti je upravni odbor zaradi ukrepov pandemije v letošnjem prvem polletju omejil na predvidene najvažnejše naloge, ki jih bo še možno izvesti do konca leta."
 ---
 
 **DRUŠTVO GRM KRANJ**  

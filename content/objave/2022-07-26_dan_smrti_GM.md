@@ -3,6 +3,7 @@ title: "26. julij - dan smrti generala Maistra"
 date: 2022-07-26T11:25:05-04:00
 featured_image: "/images/dogodki/2022-07-26_dan_smrti_gm/dan_smrti-2022-07-26_02.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - dan smrti generala Maistra 2022"
 summary: "Dan smrti generala Maistra smo v DGRM Kranj obeležili s prižiganjem sveče in položitvijo šopka pri njegovem doprsnem kipu na Maistrovem trgu v Kranju, Mestna občina Kranj pa je pod kip položila lovorov venec."
 ---
 

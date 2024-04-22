@@ -3,6 +3,7 @@ title: "Slovesnost na Uncu ter podelitve priznanj ZDGM in 19. Skupščina ZDGM v
 date: 2024-03-23T12:00:00
 featured_image: "/images/dogodki/2024-03-23_unec_in_cerknica/Cerknica_naslovna_2024-03-23.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - skupščina ZDGM 23. marca 2024"
 summary: "V prostorih Kulturnega doma Cerknica je bila 23. marca 2024 sklicana 19. Skupščina Zveze društev general Maister ..."
 ---
 

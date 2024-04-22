@@ -3,6 +3,7 @@ title: "Razstava o Rudolfu Maistru in bojih za severno mejo ter predavanje na O�
 date: 2024-04-13T12:00:00
 featured_image: "/images/dogodki/2024-04-14_razstava_os_orehek/2024-04-14_razstava_os_orehek_naslovna.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava OŠ Orehek"
 summary: "Od 3. do 12. aprila 2024 je Društvo general Rudolf Maister Kranj na Osnovni šoli Orehek postavilo razstavo Zveze društev general Maister o življenju in delu generala Rudolfa Maistra ter o bojih za severno mejo ..."
 ---
 

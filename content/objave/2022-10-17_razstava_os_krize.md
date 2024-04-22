@@ -3,6 +3,7 @@ title: "Razstava o zgodovinskih dogodkih in dejanjih Rudolfa Maistra na OŠ Kri�
 date: 2022-10-17T11:25:05-04:00
 featured_image: "/images/dogodki/2022-10-17_razstava_os_krize/os_krize_1.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava OŠ Križe"
 summary: "V dneh od 26. septembra do 7. oktobra 2022 smo v Osnovni šoli Križe gostili razstavo o generalu Rudolfu Maistru v sodelovanju z Društvom generala Rudolfa Maistra Kranj. Potujočo razstavo je pripravila Zveza društev generala Maistra Ljubljana. "
 ---
 

@@ -3,6 +3,7 @@ title: "Ekskurzija DGRM Kranj v Tržič, na prelaz Ljubelj in v Borovlje"
 date: 2022-11-14T11:25:05-04:00
 featured_image: "/images/dogodki/2022-11-14_ekskurzija/naslovna_slika_ekskurzija_2022-11-14.jpeg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - ekskurzija 2022"
 summary: "V Društvu general Rudolf Maister Kranj smo 11.11.2022 organizirali ekskurzijo v spomin na boje za severno mejo na širšem območju Borovelj ..."
 ---
 

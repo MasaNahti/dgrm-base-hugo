@@ -10,7 +10,7 @@ DefaultContentLanguage = "si"
 Paginate = 7 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
-description = "Društvo General Rudolf Maister Kranj
+  Description = "Društvo General Rudolf Maister Kranj, DGRM Kranj"
 
 [sitemap]
   changefreq = "weekly"

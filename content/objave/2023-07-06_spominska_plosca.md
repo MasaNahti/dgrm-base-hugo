@@ -3,6 +3,7 @@ title: "Položitev lovorovega venca na spominsko ploščo na Prešernovem gledal
 date: 2023-07-06T11:25:05-04:00
 featured_image: "/images/dogodki/2023-07-07_spominska_plosca/naslovna_slika_Lovorov_venec_na_spominski_plosci_v_spomin_Alfredu_Lavricu_ter_prostovoljcem_iz_Kranja_in_okolice.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - spominska plošča Prešernovo gledališče"
 summary: "V programu DGRM Kranj za letošnje leto smo načrtovali, da bomo spominsko ploščo očistili in obnovili ..."
 ---
 

@@ -3,6 +3,7 @@ title: "Proslava ob dnevu Rudolfa Maistra"
 date: 2022-11-23T11:00:00
 featured_image: "/images/dogodki/2022-11-23_proslava/proslava-2022-11-23-01.jpeg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - državni praznik - proslava 2022"
 summary: "Društvo general Rudolf Maister Kranj je v sodelovanju z Mestno občino Kranj in z Gimnazijo Kranj po letu 2019 ponovno pripravilo slovesnost ob tem državnem prazniku ..."
 ---
 

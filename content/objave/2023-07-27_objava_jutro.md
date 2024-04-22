@@ -2,6 +2,7 @@
 title: "Generala Maistra zadnja pot po slovenski zemlji (objava v časniku Jutro 28. 7. 1934)" 
 date: 2023-07-28T11:25:05-04:00
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - objava v časniku Jutro"
 summary: ""
 ---
 

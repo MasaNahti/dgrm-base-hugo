@@ -3,6 +3,7 @@ title: "Predstavitev knjige Stražarji Karavank v Mestni knjižnici Kranj"
 date: 2018-11-29T11:25:05-04:00
 featured_image: "/images/dogodki/2018-11-29_predstavitev/predstavitev-2018-11-29_banner.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - knjiga Stražarji Karavank"
 summary: " "
 ---
 

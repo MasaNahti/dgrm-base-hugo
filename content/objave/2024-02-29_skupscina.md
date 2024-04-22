@@ -3,6 +3,7 @@ title: "Skupščina DGRM Kranj 29. 2. 2024"
 date: 2024-02-29T12:00:00
 featured_image: ""
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - letna skupščina 2024"
 summary: "Člani Društva general Rudolf Maister Kranj so se zbrali na redni letni skupščini 29. 2. 2024 v Gostilni Benedik v Stražišču.  ..."
 ---
 

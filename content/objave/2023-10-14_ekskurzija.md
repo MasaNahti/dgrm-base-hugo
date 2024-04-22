@@ -3,6 +3,7 @@ title: "Predavanje in strokovna ekskurzija DGRM Kranj z naslovom »Jeseniški tr
 date: 2023-10-14T11:25:05-04:00
 featured_image: "/images/dogodki/2023-10-14_ekskurzija/naslovna_slika_ekskurzija_2023-10-14.png"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - ekskurzija 2023"
 summary: "Društvo general Rudolf Maister Kranj je 6. 10. 2023 v prostorih Dijaškega in študentskega doma v Kranju za člane društva organiziralo predavanje upokojenega brigadirja SV Janeza Kavarja, 14. 10. 2023 pa z njegovim strokovnim vodstvom  ekskurzijo po Gorenjski in v Vrbo na Koroškem z naslovom »Jeseniški trikotnik«.  ..."
 ---
 

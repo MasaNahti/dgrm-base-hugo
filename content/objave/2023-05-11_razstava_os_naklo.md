@@ -3,6 +3,7 @@ title: "Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Naklo od 11. 
 date: 2023-05-11T11:25:05-04:00
 featured_image: "/images/dogodki/2023-05-11_razstava_os_naklo/2023-05-11_razstava_os_naklo_1.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava OŠ Naklo"
 summary: "Od 11. aprila do 25. aprila 2023 je DGRM Kranj na Osnovni šoli Naklo postavil razstavo o življenju in delu generala Rudolfa Maistra ter bojih za severno mejo, ki jo je pripravila Zveza društev general Maister v sodelovanju z Vojaškim muzejem SV ..."
 ---
 

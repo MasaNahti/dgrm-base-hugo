@@ -3,6 +3,7 @@ title: "Govor predsednika DGRM Kranj na proslavi ob državnem prazniku dan Rudol
 date: 2023-11-23T12:00:00
 featured_image: ""
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - proslava - državni praznik 2023 - govor Roman Nahtigal"
 summary: "Spoštovani! Prihodnje leto bo, po po odločitvi Vlade RS, Maistrovo leto, 150 let od njegovega rojstva in 90 let od njegove smrti. Zakaj je od leta 2005 23. november državni praznik, dan Rudolfa Maistra? ..."
 ---
 

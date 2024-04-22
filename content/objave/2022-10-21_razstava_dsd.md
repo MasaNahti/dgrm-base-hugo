@@ -3,6 +3,7 @@ title: "Razstava o Rudolfu Maistru v Dijaškem in študentskem domu v Kranju od 
 date: 2022-10-21T11:25:05-04:00
 featured_image: "/images/dogodki/2022-10-21_razstava_dsd/dsd-razstava-7.jpeg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava DŠD Kranj"
 summary: "Od 10. do 21. oktobra 2022 je priložnostna razstava o generalu Rudolfu Maistru gostovala v prostorih Dijaškega in študentskega doma Kranj. Ob otvoritvi razstave sta povabljene nagovorila ravnateljica Judita Nahtigal in vzgojitelj mag. Aleš Žlebnik. ..."
 ---
 

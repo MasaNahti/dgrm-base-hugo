@@ -3,6 +3,7 @@ title: "Govor predsednika DGRM Kranj na proslavi ob državnem prazniku dan Rudol
 date: 2022-11-23T12:00:00
 featured_image: "/images/dogodki/2022-11-23_proslava/naslovna_slika_govor_proslava-2022-11-23.jpeg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - govor predsednika Romana Nahtigala 2022"
 summary: "Spoštovani! Današnji dan je šele leta 2005 postal državni praznik. ..."
 ---
 

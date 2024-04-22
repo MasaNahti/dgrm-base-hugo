@@ -3,6 +3,7 @@ title: "Maistrova razstava na Gimnaziji Kranj"
 date: 2021-11-03T11:25:05-04:00
 featured_image: "/images/dogodki/2021-11-03_razstava_gimkr/naslovna_slika_razstava-gimkr-2021-11-03.jpg"
 draft: false
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava Gimnazija Kranj"
 summary: "V sredo opoldne sta v avli Gimnazije Kranj predsednik kranjskega Društva generala Maistra Janez Tavčar in pomočnik ravnatelja Gimnazije Kranj Franci Rozman odprla razstavo o življenju, dogodkih in dejanjih generala Maistra in njegovih borcev za severno mejo. ..."
 ---
 
