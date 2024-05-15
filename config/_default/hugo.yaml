@@ -137,6 +137,11 @@ menu:
     url: "/joze-kosnjek-branili-severno-mejo/"
     weight: 8
     parent: "prispevki"
+  - identifier: "zgornjesavc-borci-za-severno-mejo"
+    name: "Zgodbe s kavča: borci za severno mejo"
+    url: "/zgornjesavc-borci-za-severno-mejo/"
+    weight: 8
+    parent: "prispevki"
   - identifier: "objave"
     name: "Objave"
     url: "/objave/"
