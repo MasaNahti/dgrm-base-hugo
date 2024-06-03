@@ -1,5 +1,5 @@
 ---
-title: "Zgodbe s kavča: borci za severno mejo"
+title: "Matjaž Podlipnik: Zgodbe s kavča - borci za severno mejo"
 description: Društvo General Rudolf Maister Kranj
 ---
 Objavljeno v: Zgornjesav'c, Glasilo Občine Kranjska gora, Letnik 19, junij 2020, Številka 6, strani 20 in 21

@@ -1,6 +1,6 @@
 ---
-title: 'Lojze Ude Jeseniški trikot - Zgodovinski časopis 33/1979'
-description: Lojze Ude Jeseniški trikot - Zgodovinski časopis 33/1979
+title: 'Lojze Ude: Jeseniški trikot - Zgodovinski časopis 33/1979'
+description: 'Lojze Ude: Jeseniški trikot - Zgodovinski časopis 33/1979'
 ---
 
 Objavljeno v: Zgodovinski časopis 33, 1979, str. 435-441

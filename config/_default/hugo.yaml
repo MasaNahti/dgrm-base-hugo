@@ -94,13 +94,13 @@ menu:
     url: "/prispevki-in-clanki/"
     weight: 3
   - identifier: "spominski-zbornik"
-    name: "Spominski zbornik 1918-1919 Maribor 1979"
+    name: "Spominski zbornik ob 60-letnici bojev za severno slovensko mejo 1918-1919 (Maribor 1979)"
     url: "/spominski-zbornik-maribor/"
     weight: 1
     post: ""
     parent: "prispevki"
   - identifier: "jeseniski-trikot"
-    name: "Lojze Ude Jeseniški trikot - Zgodovinski časopis 33/1979"
+    name: "Lojze Ude: Jeseniški trikot - Zgodovinski časopis 33/1979"
     url: "/lojze-ude-jeseniski-trikot/"
     weight: 2
     post: ""
@@ -112,7 +112,7 @@ menu:
     post: ""
     parent: "prispevki"
   - identifier: "vojaski-dogodki"
-    name: "Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
+    name: "Gregor Kastelic: Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
     url: "/vojaski-dogodki-po-koncu-prve-svetovne-vojne/"
     weight: 4
     post: ""
@@ -138,9 +138,14 @@ menu:
     weight: 8
     parent: "prispevki"
   - identifier: "zgornjesavc-borci-za-severno-mejo"
-    name: "Zgodbe s kavča: borci za severno mejo"
+    name: "Matjaž Podlipnik: Zgodbe s kavča - borci za severno mejo"
     url: "/zgornjesavc-borci-za-severno-mejo/"
-    weight: 8
+    weight: 9
+    parent: "prispevki"
+  - identifier: "lojze-ude-boj-za-maribor"
+    name: "Lojze Ude: Boj za Maribor in štajersko Podravje l. 1918-19"
+    url: "/lojze-ude-boj-za-maribor/"
+    weight: 10
     parent: "prispevki"
   - identifier: "objave"
     name: "Objave"
