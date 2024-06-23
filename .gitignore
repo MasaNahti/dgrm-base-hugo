@@ -1,1 +1,7 @@
 node_modules
+.DS_Store
+home.scss*
+styles.scss*
+layouts/.DS_Store
+static/.DS_Store
+static/images/dogodki/.DS_Store
