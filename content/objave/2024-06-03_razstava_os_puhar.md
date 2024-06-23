@@ -1,9 +1,9 @@
 ---
-title: "Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Janeza Puharja Kranj od 20. 5. do 3. 6. 2024" 
+title: "Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Janeza Puharja Kranj" 
 date: 2024-06-03T12:00:00
 featured_image: "/images/dogodki/2024-06-03_razstava_os_puhar/2024-06-03_razstava_os_puhar_1.jpg"
 draft: false
-description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava v Cerkljah"
+description: "Društvo general Rudolf Maister Kranj (DGRM Kranj) - razstava na OŠ Janeza Puharja Kranj"
 summary: "V dneh od 20. maja do 3. junija 2024 je Osnovna šola Janeza Puharja Kranj v sodelovanju z Društvom general Rudolf Maister Kranj gostila razstavo Zveze društev generala Maistra o generalu Rudolfu Maistru in bojih za severno mejo ..."
 ---
 
