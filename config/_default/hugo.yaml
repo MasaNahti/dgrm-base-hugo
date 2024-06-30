@@ -16,6 +16,10 @@ contentDir: content/
 # Set the default language as the root rather than in folder i.e. don't use /en/
 #defaultContentLanguageInSubdir: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 ######################## privacy & speed ####################
 # Enable do not track, no cookies on Video embeds
