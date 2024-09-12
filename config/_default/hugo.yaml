@@ -151,6 +151,11 @@ menu:
     url: "/lojze-ude-boj-za-maribor/"
     weight: 10
     parent: "prispevki"
+  - identifier: "lojze-ude-boj-za-maribor"
+    name: "Andrej Žemva: Karel Šefman (1889-1973)"
+    url: "/andrej-zemva-karel-sefman/"
+    weight: 11
+    parent: "prispevki"
   - identifier: "objave"
     name: "Objave"
     url: "/objave/"
