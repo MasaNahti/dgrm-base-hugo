@@ -26,11 +26,11 @@ OŠ Josipa Vandota Kranjska Gora«
 ![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_1.jpg " ")  
 Razstavo so si  med urami zgodovine ogledali učenci od 6. do 9. razreda.  
                             
-![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_2.jpg " ")  
+![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_3.jpg " ")  
 S pomočjo razstave je učiteljica zgodovine učencem predstavila življenje in delo generala Maistra.
 
-![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_3.jpg " ")  
+![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_4.jpg " ")  
 Razstavo so si učenci tudi sami ogledali in rešili učne liste ... 
 
-![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_4.jpg " ")  
+![](/images/dogodki/2024-11-16_razstava_os_kranjska_gora/2024-11-16_razstava_os_kranjska_gora_2.jpg " ")  
 ... ter na koncu še zabavni kviz, ki ga je pripravila učiteljica zgodovine.
