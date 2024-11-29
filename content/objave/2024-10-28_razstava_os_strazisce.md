@@ -21,4 +21,4 @@ Postavitev razstave je organiziralo DGRM Kranj, za kar se iskreno zahvaljujemo p
 Razstavo smo postavili v avli Osnovne šole Stražišče.  
                             
 ![](/images/dogodki/2024-10-28_razstava_os_strazisce/2024-10-28_razstava_os_strazisce_2.jpg " ")  
-Razstavo so s ogledali učenci, pa tudi zunanji obiskovalci šol
+Razstavo so s ogledali učenci, pa tudi zunanji obiskovalci šole.
