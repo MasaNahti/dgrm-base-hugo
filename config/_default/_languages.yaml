@@ -27,10 +27,24 @@ si:
       name: "Objave"
       url: "/objave/"
       weight: 1
+    - identifier: "strazarji"
+      name: "Stražarji Karavank"
+      url: "/strazarji-karavank/"
+      weight: 2
+    - identifier: "prispevki"
+      name: "Prispevki in članki"
+      url: "/prispevki-in-clanki/"
+      weight: 3
+    - identifier: "vojaski-dogodki"
+      name: "Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
+      url: "/vojaski-dogodki-po-koncu-prve-svetovne-vojne/"
+      weight: 1
+      post: "..."
+      parent: "prispevki"
     - identifier: "drustvo"
       name: "Društvo"
       url: "drustvo/"
-      weight: 2
+      weight: 4
     - identifier: "o-drustvu"
       name: "O društvu"
       url: "/o-drustvu/"
@@ -57,17 +71,3 @@ si:
       url: "/zapisniki/"
       weight: 3
       parent: "drustvo"
-    - identifier: "strazarji"
-      name: "Stražarji Karavank"
-      url: "/strazarji-karavank/"
-      weight: 3
-    - identifier: "prispevki"
-      name: "Prispevki in članki"
-      url: "/prispevki-in-clanki/"
-      weight: 4
-    - identifier: "vojaski-dogodki"
-      name: "Vojaški dogodki na Koroškem po koncu I. svetovne vojne"
-      url: "/vojaski-dogodki-po-koncu-prve-svetovne-vojne/"
-      weight: 1
-      post: "..."
-      parent: "prispevki"

@@ -54,53 +54,14 @@ menu:
     name: "Objave"
     url: "/objave/"
     weight: 1
-  - identifier: "drustvo"
-    name: "Društvo"
-    url: "drustvo/"
-    weight: 2
-  - identifier: "o-drustvu"
-    name: "O društvu"
-    url: "/o-drustvu/"
-    weight: 1
-    parent: "drustvo"
-  - identifier: "statut"
-    name: "Statut društva"
-    url: "/statut-drustva/"
-    weight: 2
-    parent: "drustvo"
-  - identifier: "program"
-    name: "Program"
-    url: "/program/"
-    weight: 3
-    parent: "drustvo"
-  - identifier: "porocila"
-    name: "Poročila"
-    url: "/porocila/"
-    weight: 4
-    parent: "drustvo"
-  - identifier: "zapisniki"
-    name: "Zapisniki"
-    url: "/zapisniki/"
-    weight: 5
-    parent: "drustvo"
-  - identifier: "predlogi-za-priznanja"
-    name: "Predlogi za priznanja ZDGM"
-    url: "/predlogi-za-priznanja/"
-    weight: 6
-    parent: "drustvo"
-  - identifier: "kontakt"
-    name: "Kontakt"
-    url: "/kontakt/"
-    weight: 7
-    parent: "drustvo"
   - identifier: "strazarji"
     name: "Stražarji Karavank"
     url: "/strazarji-karavank/"
-    weight: 3
+    weight: 2
   - identifier: "prispevki"
     name: "Prispevki in članki"
     url: "/prispevki-in-clanki/"
-    weight: 4
+    weight: 3
   - identifier: "spominski-zbornik"
     name: "Spominski zbornik ob 60-letnici bojev za severno slovensko mejo 1918-1919 (Maribor 1979)"
     url: "/spominski-zbornik-maribor/"
@@ -160,3 +121,42 @@ menu:
     url: "/andrej-zemva-karel-sefman/"
     weight: 11
     parent: "prispevki"
+  - identifier: "drustvo"
+    name: "Društvo"
+    url: "drustvo/"
+    weight: 4
+  - identifier: "o-drustvu"
+    name: "O društvu"
+    url: "/o-drustvu/"
+    weight: 1
+    parent: "drustvo"
+  - identifier: "statut"
+    name: "Statut društva"
+    url: "/statut-drustva/"
+    weight: 2
+    parent: "drustvo"
+  - identifier: "program"
+    name: "Program"
+    url: "/program/"
+    weight: 3
+    parent: "drustvo"
+  - identifier: "porocila"
+    name: "Poročila"
+    url: "/porocila/"
+    weight: 4
+    parent: "drustvo"
+  - identifier: "zapisniki"
+    name: "Zapisniki"
+    url: "/zapisniki/"
+    weight: 5
+    parent: "drustvo"
+  - identifier: "predlogi-za-priznanja"
+    name: "Predlogi za priznanja ZDGM"
+    url: "/predlogi-za-priznanja/"
+    weight: 6
+    parent: "drustvo"
+  - identifier: "kontakt"
+    name: "Kontakt"
+    url: "/kontakt/"
+    weight: 7
+    parent: "drustvo"
