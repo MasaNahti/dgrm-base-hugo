@@ -140,28 +140,33 @@ menu:
     url: "/statut-drustva/"
     weight: 2
     parent: "drustvo"
+  - identifier: "poslovnik"
+    name: "Poslovnik društva"
+    url: "/poslovnik-drustva/"
+    weight: 3
+    parent: "drustvo"
   - identifier: "program"
     name: "Program"
     url: "/program/"
-    weight: 3
+    weight: 4
     parent: "drustvo"
   - identifier: "porocila"
     name: "Poročila"
     url: "/porocila/"
-    weight: 4
+    weight: 5
     parent: "drustvo"
   - identifier: "zapisniki"
     name: "Zapisniki"
     url: "/zapisniki/"
-    weight: 5
+    weight: 6
     parent: "drustvo"
   - identifier: "predlogi-za-priznanja"
     name: "Predlogi za priznanja ZDGM"
     url: "/predlogi-za-priznanja/"
-    weight: 6
+    weight: 7
     parent: "drustvo"
   - identifier: "kontakt"
     name: "Kontakt"
     url: "/kontakt/"
-    weight: 7
+    weight: 8
     parent: "drustvo"
