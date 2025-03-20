@@ -116,10 +116,15 @@ menu:
     url: "/lojze-ude-boj-za-maribor/"
     weight: 10
     parent: "prispevki"
-  - identifier: "lojze-ude-boj-za-maribor"
+  - identifier: "andrej-zemva-karel-sefman"
     name: "Andrej Žemva: Karel Šefman (1889-1973)"
     url: "/andrej-zemva-karel-sefman/"
     weight: 11
+    parent: "prispevki"
+  - identifier: "andrej-zemva-karel-sefman-pismoi"
+    name: "Andrej Žemva: pismo Karlu Šefmanu"
+    url: "/andrej-zemva-karel-sefman-pismo/"
+    weight: 12
     parent: "prispevki"
   - identifier: "drustvo"
     name: "Društvo"
