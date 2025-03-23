@@ -60,4 +60,4 @@ predsednik
 **ARHIV:**
 - Program dela DGRM Kranj za leto 2022 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2022.pdf))
 - Program dela DGRM Kranj za leto 2023 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2023.pdf))
-- Program dela DGRM Kranj za leto 2023 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2024.pdf))
+- Program dela DGRM Kranj za leto 2024 ([pdf](/programi-dela/Program-dela-DGRM-Kranj-za-leto-2024.pdf))
