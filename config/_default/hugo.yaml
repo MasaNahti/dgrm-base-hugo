@@ -42,7 +42,7 @@ params:
   ### calls to action ###
   main_cta:
     text: "Nastaja nova knjiga o gorenjskih junakih v bojih za severno mejo"
-    link: "/predstavitev-nove-knjige.pdf"
+    link: "/Prospekt_knjige_Pozabljene_bitke.pdf"
   footer_cta:
     text: "Kontakt"
     link: "/kontakt/"
