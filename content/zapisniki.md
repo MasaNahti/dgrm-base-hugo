@@ -6,6 +6,7 @@ description: Zapisniki Skupščine in organov društva DGRM Kranj
 **ZAPISNIKI ZA LETO 2025**
 - Zapisnik 10. dopisne seje UO DGRM Kranj od 30. in 31. 1. 2025 ([pdf](/zapisniki/Zapisnik_10._dopisne_seje_UO_DGRM_Kranj_od_30._in_31._1._2025.pdf))
 - Zapisnik letne skupščine DGRM Kranj dne 28. 2. 2025 ([pdf](/zapisniki/Zapisnik_redne_letne_skupscine_DGRM_Kranj_dne_28.2.2025.pdf))
+- Zapisnik 11. seje UO DGRM Kranj dne 24. 4. 2025 ([pdf](/zapisniki/Zapisnik_11._seje_UO_DGRM_Kranj_dne_24._4._2025.pdf))
 
 **ZAPISNIKI ZA LETO 2024**
 - Zapisnik 7. seje UO DGRM Kranj dne 7. 2. 2024 ([pdf](/zapisniki/Zapisnik_7._seje_UO_DGRM_Kranj_dne_7.2.2024.pdf))
