@@ -131,6 +131,11 @@ menu:
     url: "/nahtigal-simac-pozabljene-bitke/"
     weight: 13
     parent: "prispevki"
+  - identifier: "joze-kosnjek-pozabljene-bitke-za-severno-mejo"
+    name: "Jože Košnjek: Pozabljene bitke za severno mejo"
+    url: "/joze-kosnjek-pozabljene-bitke-za-severno-mejo/"
+    weight: 14
+    parent: "prispevki"
   - identifier: "drustvo"
     name: "Društvo"
     url: "drustvo/"
