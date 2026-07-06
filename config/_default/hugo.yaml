@@ -126,6 +126,11 @@ menu:
     url: "/andrej-zemva-karel-sefman-pismo/"
     weight: 12
     parent: "prispevki"
+  - identifier: "nahtigal-simac-pozabljene-bitke"
+    name: "Roman Nahtigal, dr. Miha Šimac: Knjiga Pozabljene bitke (prispevek)"
+    url: "/nahtigal-simac-pozabljene-bitke/"
+    weight: 13
+    parent: "prispevki"
   - identifier: "drustvo"
     name: "Društvo"
     url: "drustvo/"
